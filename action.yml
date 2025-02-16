@@ -1,0 +1,6 @@
+name: 'Bookmark Feeds to Markdown'
+description: 'Converts the RSS feed from my Bookmark to Markdown files'
+author: 'Adam Chamberlin'
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
